@@ -24,3 +24,6 @@ yarn-error.log*
 
 #dotenv
 .env
+
+#package.json conflict to deploy with heroku
+package-lock.json
