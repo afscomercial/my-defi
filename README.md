@@ -33,7 +33,7 @@ truffle exec scripts/seed-exchange.js
 run truffle test
 
 
-### deploy
+### deploy smart contract
 
 -create infura node
 
@@ -48,3 +48,19 @@ truffle migrate --network rinkeby
 (error deploying force with this command)
 truffle migrate --network rinkeby -skipDryRun
 
+### deploy DAPP
+
+-deploy with heroku
+
+-install heroku CLI
+
+-add heroku remote to the project
+
+-git push heroku 
+
+(problems)
+-check logs in heroku: 
+heroku logs --tails
+
+(memory issues in heroku)
+heroku config:set NODE_OPTIONS="--max_old_space_size=2560" -a [app_name]
