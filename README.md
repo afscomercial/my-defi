@@ -41,9 +41,10 @@ run truffle test
 
 -rinkeby faucet https://faucets.chain.link/rinkeby
 
--truffle command:
+-truffle deploy command:
 
 truffle migrate --network rinkeby
+
 (error deploying force with this command)
 truffle migrate --network rinkeby -skipDryRun
 
