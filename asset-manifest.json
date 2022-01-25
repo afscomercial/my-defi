@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-defi/static/css/main.7a37552e.chunk.css",
+    "main.js": "/my-defi/static/js/main.b599ca9d.chunk.js",
+    "main.js.map": "/my-defi/static/js/main.b599ca9d.chunk.js.map",
+    "runtime-main.js": "/my-defi/static/js/runtime-main.22c629e6.js",
+    "runtime-main.js.map": "/my-defi/static/js/runtime-main.22c629e6.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/my-defi/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.03a661d1.chunk.js": "/my-defi/static/js/2.03a661d1.chunk.js",
+    "static/js/2.03a661d1.chunk.js.map": "/my-defi/static/js/2.03a661d1.chunk.js.map",
+    "index.html": "/my-defi/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/my-defi/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.7a37552e.chunk.css.map": "/my-defi/static/css/main.7a37552e.chunk.css.map",
+    "static/js/2.03a661d1.chunk.js.LICENSE.txt": "/my-defi/static/js/2.03a661d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22c629e6.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.03a661d1.chunk.js",
+    "static/css/main.7a37552e.chunk.css",
+    "static/js/main.b599ca9d.chunk.js"
+  ]
+}
